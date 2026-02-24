@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Senior+Backend+Developer;ASP.NET+Core+Expert;Software+Architect;Full+Stack+Innovator" alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🚀 Sobre mí
 
@@ -16,7 +16,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 *   ⚙️ **Futuro:** Evolucionando hacia el entorno **Cloud Native** y **DevOps** (AWS, Terraform, Kubernetes).
 *   📚 **Filosofía:** "La disciplina técnica es el puente entre una idea y una solución escalable."
 
----
+
 
 ### 🏆 Proyectos Destacados
 
@@ -47,7 +47,6 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 </div>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -70,7 +69,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -79,7 +78,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPM11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
----
+
 
 ### 📫 Contacto
 
