@@ -68,19 +68,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 </p>
 
 
-### 📫 Contacto
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexander-pm-913454226">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://apolanco.com/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:alexander_pm11@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 
 ### 📊 GitHub Stats
@@ -103,4 +91,18 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <p align="center">
   <i>"El código es poesía cuando la arquitectura es arte."</i>
+</p>
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-pm-913454226">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://apolanco.com/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:alexander_pm11@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
