@@ -24,6 +24,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 | | |
 | :---: | :---: |
+<<<<<<< HEAD
 | <a href="https://bank.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Future Banking Now"></a> | <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> |
 | **Future Banking Now** | **Smart System** |
 | *Banca digital segura (Mejor Proyecto Final).* | *Gestión escolar Montessori integral.* |
@@ -44,6 +45,17 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 **You E-Market**
 *Plataforma eCommerce de contacto directo.*
 [🔗 Ver Proyecto](https://youmarket.apolanco.com/)
+=======
+| <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> | <a href="https://connect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="RealEstate Connect"></a> |
+| **Smart System** | **RealEstate Connect** |
+| *Gestión escolar Montessori integral.* | *Gestión inmobiliaria avanzada (Premiado).* |
+| [🔗 Ver Proyecto](https://smartsystem.apolanco.com/) | [🔗 Ver Proyecto](https://connect.apolanco.com/) |
+| | |
+| <a href="https://socialperfect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Social Media Perfect"></a> | <a href="https://youmarket.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="You E-Market"></a> |
+| **Social Media Perfect** | **You E-Market** |
+| *Simulación de red social dinámica.* | *eCommerce de contacto directo.* |
+| [🔗 Ver Proyecto](https://socialperfect.apolanco.com/) | [🔗 Ver Proyecto](https://youmarket.apolanco.com/) |
+>>>>>>> e714c9debee2861e439c96cf6839b4dc9732f278
 
 </div>
 
