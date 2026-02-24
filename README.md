@@ -24,7 +24,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <!-- Smart System Card -->
 <a href="https://smartsystem.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="Smart System">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png"  height="225px" style="border-radius: 10px; margin: 10px;" alt="Smart System">
 </a>
 
 **Smart System**
@@ -35,7 +35,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <!-- RealEstate Connect Card -->
 <a href="https://connect.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="RealEstate Connect">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png"  height="225px" style="border-radius: 10px; margin: 10px;" alt="RealEstate Connect">
 </a>
 
 **RealEstate Connect**
@@ -46,7 +46,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <!-- Social Media Perfect Card -->
 <a href="https://socialperfect.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="Social Media Perfect">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png"  height="225px" style="border-radius: 10px; margin: 10px;" alt="Social Media Perfect">
 </a>
 
 **Social Media Perfect**
@@ -57,7 +57,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <!-- You E-Market Card -->
 <a href="https://youmarket.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="You E-Market">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png"  height="225px" style="border-radius: 10px; margin: 10px;" alt="You E-Market">
 </a>
 
 **You E-Market**
