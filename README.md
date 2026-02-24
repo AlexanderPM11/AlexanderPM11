@@ -2,7 +2,7 @@
   <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/profile-github.webp" width="100%" style="border-radius: 15px;" alt="Alexander PM Profile Banner">
 </p> -->
 
-# <p align="center">Alexander PM - <a href="https://apolanco.com/"><b>🌐 apolanco.com</b></a>
+# <p align="center">Alexander PM - <a href="https://apolanco.com/"><b>apolanco.com</b></a>
 </p>
 
 <p align="center">
