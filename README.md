@@ -2,10 +2,9 @@
   <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/profile-github.webp" width="100%" style="border-radius: 15px;" alt="Alexander PM Profile Banner">
 </p> -->
 
-# <p align="center">Alexander PM</p>
-<p align="center">
-  <a href="https://apolanco.com/"><b>🌐 apolanco.com</b></a>
+# <p align="center">Alexander PM - <a href="https://apolanco.com/"><b>🌐 apolanco.com</b></a>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Senior+Backend+Developer;ASP.NET+Core+Expert;Software+Architect;Full+Stack+Innovator" alt="Typing SVG" />
 </p>
