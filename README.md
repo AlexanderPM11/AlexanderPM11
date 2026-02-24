@@ -12,7 +12,7 @@ Soy un **Desarrollador Full Stack** con más de **5 años de experiencia** y má
 Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el **ITLA (2023)**, combino una sólida base técnica con una mentalidad orientada a la resolución de problemas complejos y la innovación constante.
 
 *   🔭 **Especialidad:** Construcción de soluciones robustas con **ASP.NET Core**, **Clean Architecture** y **DDD**.
-*   🏗️ **Logros:** Mi portafolio incluye sistemas integrales de gestión y plataformas premiadas a nivel académico.
+*   🏗 **Logros:** Mi portafolio incluye sistemas integrales de gestión y plataformas premiadas a nivel académico.
 *   ⚙️ **Futuro:** Evolucionando hacia el entorno **Cloud Native** y **DevOps** (AWS, Terraform, Kubernetes).
 *   📚 **Filosofía:** "La disciplina técnica es el puente entre una idea y una solución escalable."
 
@@ -22,17 +22,47 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <div align="center">
 
-| **Smart System** | **RealEstate Connect** |
-| :---: | :---: |
-| [![Smart System](https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png)](https://smartsystem.apolanco.com/) | [![RealEstate Connect](https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png)](https://connect.apolanco.com/) |
-| Plataforma integral para gestión escolar Montessori. | Sistema avanzado de gestión inmobiliaria (Premiado). |
-| [Ver Proyecto](https://smartsystem.apolanco.com/) | [Ver Proyecto](https://connect.apolanco.com/) |
+<!-- Smart System Card -->
+<a href="https://smartsystem.apolanco.com/">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="Smart System">
+</a>
 
-| **Social Media Perfect** | **You E-Market** |
-| :---: | :---: |
-| [![Social Media Perfect](https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png)](https://socialperfect.apolanco.com/) | [![You E-Market](https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png)](https://youmarket.apolanco.com/) |
-| Simulación de red social con engagement dinámico. | Plataforma eCommerce simplificada de conexión directa. |
-| [Ver Proyecto](https://socialperfect.apolanco.com/) | [Ver Proyecto](https://youmarket.apolanco.com/) |
+**Smart System**
+*Plataforma integral para gestión escolar Montessori.*
+[Ver Proyecto Live](https://smartsystem.apolanco.com/)
+
+<br>
+
+<!-- RealEstate Connect Card -->
+<a href="https://connect.apolanco.com/">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="RealEstate Connect">
+</a>
+
+**RealEstate Connect**
+*Sistema avanzado de gestión inmobiliaria (Premiado).*
+[Ver Proyecto Live](https://connect.apolanco.com/)
+
+<br>
+
+<!-- Social Media Perfect Card -->
+<a href="https://socialperfect.apolanco.com/">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="Social Media Perfect">
+</a>
+
+**Social Media Perfect**
+*Simulación de red social con engagement dinámico.*
+[Ver Proyecto Live](https://socialperfect.apolanco.com/)
+
+<br>
+
+<!-- You E-Market Card -->
+<a href="https://youmarket.apolanco.com/">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="400px" height="225px" style="border-radius: 10px; margin: 10px;" alt="You E-Market">
+</a>
+
+**You E-Market**
+*Plataforma eCommerce simplificada de conexión directa.*
+[Ver Proyecto Live](https://youmarket.apolanco.com/)
 
 </div>
 
