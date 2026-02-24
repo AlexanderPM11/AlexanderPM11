@@ -37,6 +37,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
 #### // Cloud, DevOps & Automation
