@@ -95,28 +95,15 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <div align="center">
 
-| | |
+| [<img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="300px" style="border-radius: 8px;" alt="Future Banking">](https://bank.apolanco.com/) | [<img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="300px" style="border-radius: 8px;" alt="Smart System">](https://smartsystem.apolanco.com/) | [<img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="300px" style="border-radius: 8px;" alt="RealEstate Connect">](https://connect.apolanco.com/) |
+| :---: | :---: | :---: |
+| **Future Banking Now** | **Smart System** | **RealEstate Connect** |
+| *Banca Digital | ITLA '23* | *Gestión Inmobiliaria* |
+
+| [<img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="300px" style="border-radius: 8px;" alt="Social Media Perfect">](https://socialperfect.apolanco.com/) | [<img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="300px" style="border-radius: 8px;" alt="You E-Market">](https://youmarket.apolanco.com/) |
 | :---: | :---: |
-| <a href="https://bank.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Future Banking Now"></a> | <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> |
-| **Future Banking Now** | **Smart System** |
-| *Banca digital segura (Mejor Proyecto Final).* | *Gestión escolar Montessori integral.* |
-| [🔗 Ver Proyecto](https://bank.apolanco.com/) | [🔗 Ver Proyecto](https://smartsystem.apolanco.com/) |
-| | |
-| <a href="https://connect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="RealEstate Connect"></a> | <a href="https://socialperfect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Social Media Perfect"></a> |
-| **RealEstate Connect** | **Social Media Perfect** |
-| *Gestión inmobiliaria avanzada (Premiado).* | *Simulación de red social dinámica.* |
-| [🔗 Ver Proyecto](https://connect.apolanco.com/) | [🔗 Ver Proyecto](https://socialperfect.apolanco.com/) |
-
-<br>
-
-<!-- Fifth Project - Centered -->
-<a href="https://youmarket.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="450px" height="280px" style="border-radius: 12px; margin: 10px;" alt="You E-Market">
-</a>
-
-**You E-Market**
-*Plataforma eCommerce de contacto directo.*
-[🔗 Ver Proyecto](https://youmarket.apolanco.com/)
+| **Social Media Perfect** | **You E-Market** |
+| *Red Social Dinámica* | *eCommerce Directo* |
 
 </div>
 
