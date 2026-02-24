@@ -12,7 +12,7 @@ Soy un **Desarrollador Full Stack** con más de **5 años de experiencia** y má
 Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el **ITLA (2023)**, combino una sólida base técnica con una mentalidad orientada a la resolución de problemas complejos y la innovación constante.
 
 *   🔭 **Especialidad:** Construcción de soluciones robustas con **ASP.NET Core**, **Clean Architecture** y **DDD**.
-*   🏗 **Logros:** Mi portafolio incluye sistemas integrales de gestión y plataformas premiadas a nivel académico.
+*   🏗 **Logros:** Mi portafolio incluye sistemas integrales de gestión y múltiples plataformas premiadas como el "Mejor Proyecto Final".
 *   ⚙️ **Futuro:** Evolucionando hacia el entorno **Cloud Native** y **DevOps** (AWS, Terraform, Kubernetes).
 *   📚 **Filosofía:** "La disciplina técnica es el puente entre una idea y una solución escalable."
 
@@ -22,47 +22,28 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 <div align="center">
 
-<!-- Smart System Card -->
-<a href="https://smartsystem.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png"  height="350px" style="border-radius: 10px; margin: 10px;" alt="Smart System">
-</a>
-
-**Smart System**
-*Plataforma integral para gestión escolar Montessori.*
-[Ver Proyecto Live](https://smartsystem.apolanco.com/)
-
-<br>
-
-<!-- RealEstate Connect Card -->
-<a href="https://connect.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png"  height="350px" style="border-radius: 10px; margin: 10px;" alt="RealEstate Connect">
-</a>
-
-**RealEstate Connect**
-*Sistema avanzado de gestión inmobiliaria (Premiado).*
-[Ver Proyecto Live](https://connect.apolanco.com/)
+| | |
+| :---: | :---: |
+| <a href="https://bank.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Future Banking Now"></a> | <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> |
+| **Future Banking Now** | **Smart System** |
+| *Banca digital segura (Mejor Proyecto Final).* | *Gestión escolar Montessori integral.* |
+| [🔗 Ver Proyecto](https://bank.apolanco.com/) | [🔗 Ver Proyecto](https://smartsystem.apolanco.com/) |
+| | |
+| <a href="https://connect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="RealEstate Connect"></a> | <a href="https://socialperfect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Social Media Perfect"></a> |
+| **RealEstate Connect** | **Social Media Perfect** |
+| *Gestión inmobiliaria avanzada (Premiado).* | *Simulación de red social dinámica.* |
+| [🔗 Ver Proyecto](https://connect.apolanco.com/) | [🔗 Ver Proyecto](https://socialperfect.apolanco.com/) |
 
 <br>
 
-<!-- Social Media Perfect Card -->
-<a href="https://socialperfect.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png"  height="350px" style="border-radius: 10px; margin: 10px;" alt="Social Media Perfect">
-</a>
-
-**Social Media Perfect**
-*Simulación de red social con engagement dinámico.*
-[Ver Proyecto Live](https://socialperfect.apolanco.com/)
-
-<br>
-
-<!-- You E-Market Card -->
+<!-- Fifth Project - Centered -->
 <a href="https://youmarket.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png"  height="350px" style="border-radius: 10px; margin: 10px;" alt="You E-Market">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="450px" height="280px" style="border-radius: 12px; margin: 10px;" alt="You E-Market">
 </a>
 
 **You E-Market**
-*Plataforma eCommerce simplificada de conexión directa.*
-[Ver Proyecto Live](https://youmarket.apolanco.com/)
+*Plataforma eCommerce de contacto directo.*
+[🔗 Ver Proyecto](https://youmarket.apolanco.com/)
 
 </div>
 
