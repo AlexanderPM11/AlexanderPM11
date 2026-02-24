@@ -16,37 +16,7 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 *   📚 **Filosofía:** "La disciplina técnica es el puente entre una idea y una solución escalable."
 
 
-### 🏆 Proyectos Destacados
-
-<div align="center">
-
-| | |
-| :---: | :---: |
-| <a href="https://bank.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Future Banking Now"></a> | <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> |
-| **Future Banking Now** | **Smart System** |
-| *Banca digital segura (Mejor Proyecto Final).* | *Gestión escolar Montessori integral.* |
-| [🔗 Ver Proyecto](https://bank.apolanco.com/) | [🔗 Ver Proyecto](https://smartsystem.apolanco.com/) |
-| | |
-| <a href="https://connect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="RealEstate Connect"></a> | <a href="https://socialperfect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Social Media Perfect"></a> |
-| **RealEstate Connect** | **Social Media Perfect** |
-| *Gestión inmobiliaria avanzada (Premiado).* | *Simulación de red social dinámica.* |
-| [🔗 Ver Proyecto](https://connect.apolanco.com/) | [🔗 Ver Proyecto](https://socialperfect.apolanco.com/) |
-
-<br>
-
-<!-- Fifth Project - Centered -->
-<a href="https://youmarket.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="450px" height="280px" style="border-radius: 12px; margin: 10px;" alt="You E-Market">
-</a>
-
-**You E-Market**
-*Plataforma eCommerce de contacto directo.*
-[🔗 Ver Proyecto](https://youmarket.apolanco.com/)
-
-</div>
-
-
-### 🛠️ Tech Stack
+### ️ Tech Stack
 
 #### // Languages
 <p align="left">
@@ -91,14 +61,6 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 </p>
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPM11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alexander's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPM11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-
 ### 📫 Contacto
 
 <p align="left">
@@ -112,6 +74,44 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPM11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alexander's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPM11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+
+### 🏆 Proyectos Destacados
+
+<div align="center">
+
+| | |
+| :---: | :---: |
+| <a href="https://bank.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Future Banking Now"></a> | <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> |
+| **Future Banking Now** | **Smart System** |
+| *Banca digital segura (Mejor Proyecto Final).* | *Gestión escolar Montessori integral.* |
+| [🔗 Ver Proyecto](https://bank.apolanco.com/) | [🔗 Ver Proyecto](https://smartsystem.apolanco.com/) |
+| | |
+| <a href="https://connect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="RealEstate Connect"></a> | <a href="https://socialperfect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Social Media Perfect"></a> |
+| **RealEstate Connect** | **Social Media Perfect** |
+| *Gestión inmobiliaria avanzada (Premiado).* | *Simulación de red social dinámica.* |
+| [🔗 Ver Proyecto](https://connect.apolanco.com/) | [🔗 Ver Proyecto](https://socialperfect.apolanco.com/) |
+
+<br>
+
+<!-- Fifth Project - Centered -->
+<a href="https://youmarket.apolanco.com/">
+  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="450px" height="280px" style="border-radius: 12px; margin: 10px;" alt="You E-Market">
+</a>
+
+**You E-Market**
+*Plataforma eCommerce de contacto directo.*
+[🔗 Ver Proyecto](https://youmarket.apolanco.com/)
+
+</div>
 
 <p align="center">
   <i>"El código es poesía cuando la arquitectura es arte."</i>
