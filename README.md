@@ -93,32 +93,13 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 
 ### 🏆 Proyectos Destacados
 
-<div align="center">
-
-| | |
-| :---: | :---: |
-| <a href="https://bank.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-banking-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Future Banking Now"></a> | <a href="https://smartsystem.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2025/12/SmastSystem-Project.png" width="450px" height="280px" style="border-radius: 12px;" alt="Smart System"></a> |
-| **Future Banking Now** | **Smart System** |
-| *Banca digital segura (Mejor Proyecto Final).* | *Gestión escolar Montessori integral.* |
-| [🔗 Ver Proyecto](https://bank.apolanco.com/) | [🔗 Ver Proyecto](https://smartsystem.apolanco.com/) |
-| | |
-| <a href="https://connect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-Real-state-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="RealEstate Connect"></a> | <a href="https://socialperfect.apolanco.com/"><img src="https://blog.apolanco.com/wp-content/uploads/2026/02/blog-socialmedia-header.png" width="450px" height="280px" style="border-radius: 12px;" alt="Social Media Perfect"></a> |
-| **RealEstate Connect** | **Social Media Perfect** |
-| *Gestión inmobiliaria avanzada (Premiado).* | *Simulación de red social dinámica.* |
-| [🔗 Ver Proyecto](https://connect.apolanco.com/) | [🔗 Ver Proyecto](https://socialperfect.apolanco.com/) |
+*   🚀 **[Future Banking Now](https://bank.apolanco.com/)** - Banca digital segura (Mejor Proyecto Final).
+*   🏫 **[Smart System](https://smartsystem.apolanco.com/)** - Gestión escolar Montessori integral.
+*   🏠 **[RealEstate Connect](https://connect.apolanco.com/)** - Gestión inmobiliaria avanzada (Premiado).
+*   📱 **[Social Media Perfect](https://socialperfect.apolanco.com/)** - Simulación de red social dinámica.
+*   🛒 **[You E-Market](https://youmarket.apolanco.com/)** - eCommerce de contacto directo.
 
 <br>
-
-<!-- Fifth Project - Centered -->
-<a href="https://youmarket.apolanco.com/">
-  <img src="https://blog.apolanco.com/wp-content/uploads/2025/12/Emarket-Project.png" width="450px" height="280px" style="border-radius: 12px; margin: 10px;" alt="You E-Market">
-</a>
-
-**You E-Market**
-*Plataforma eCommerce de contacto directo.*
-[🔗 Ver Proyecto](https://youmarket.apolanco.com/)
-
-</div>
 
 <p align="center">
   <i>"El código es poesía cuando la arquitectura es arte."</i>
