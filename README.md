@@ -67,9 +67,16 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
   <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white" alt="Jira">
 </p>
 
+### 🏆 Proyectos Destacados
 
-
-
+*   🚀 **[Future Banking Now](https://bank.apolanco.com/)** - Banca digital segura (Mejor Proyecto Final).
+*   🏫 **[Smart System](https://smartsystem.apolanco.com/)** - Gestión escolar Montessori integral.
+*   🏠 **[RealEstate Connect](https://connect.apolanco.com/)** - Gestión inmobiliaria avanzada (Premiado).
+*   📱 **[Social Media Perfect](https://socialperfect.apolanco.com/)** - Simulación de red social dinámica.
+*   🛒 **[You E-Market](https://youmarket.apolanco.com/)** - eCommerce de contacto directo.
+*   🏭 **[SIGPRO](https://sigpro.apolanco.com/)** - Sistema Integral de Gestión de Producción (MES) agroindustrial.
+*   📝 **[AJP Notes](https://ajpnotes.apolanco.com/)** - App web de notas completas con checklist y reloj Pomodoro.
+*   📅 **[DayTracker](https://streakcore.apolanco.com/)** - Rastreador de retos personales con calendario personalizable.
 
 ### 📊 GitHub Stats
 
@@ -88,18 +95,6 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexanderPM11&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
-
-
-### 🏆 Proyectos Destacados
-
-*   🚀 **[Future Banking Now](https://bank.apolanco.com/)** - Banca digital segura (Mejor Proyecto Final).
-*   🏫 **[Smart System](https://smartsystem.apolanco.com/)** - Gestión escolar Montessori integral.
-*   🏠 **[RealEstate Connect](https://connect.apolanco.com/)** - Gestión inmobiliaria avanzada (Premiado).
-*   📱 **[Social Media Perfect](https://socialperfect.apolanco.com/)** - Simulación de red social dinámica.
-*   🛒 **[You E-Market](https://youmarket.apolanco.com/)** - eCommerce de contacto directo.
-*   🏭 **[SIGPRO](https://sigpro.apolanco.com/)** - Sistema Integral de Gestión de Producción (MES) agroindustrial.
-*   📝 **[AJP Notes](https://ajpnotes.apolanco.com/)** - App web de notas completas con checklist y reloj Pomodoro.
-*   📅 **[DayTracker](https://streakcore.apolanco.com/)** - Rastreador de retos personales con calendario personalizable.
 
 <br>
 
