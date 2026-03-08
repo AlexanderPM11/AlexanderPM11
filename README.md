@@ -74,9 +74,17 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 ### 📊 GitHub Stats
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AlexanderPM11&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AlexanderPM11&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexanderPM11&layout=compact&theme=radical)
+  <a href="https://github.com/AlexanderPM11">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=AlexanderPM11&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/AlexanderPM11">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexanderPM11&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AlexanderPM11">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AlexanderPM11&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
 
 
