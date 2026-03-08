@@ -86,6 +86,9 @@ Graduado con **Máxima Excelencia Académica** en Desarrollo de Software por el 
 *   🏠 **[RealEstate Connect](https://connect.apolanco.com/)** - Gestión inmobiliaria avanzada (Premiado).
 *   📱 **[Social Media Perfect](https://socialperfect.apolanco.com/)** - Simulación de red social dinámica.
 *   🛒 **[You E-Market](https://youmarket.apolanco.com/)** - eCommerce de contacto directo.
+*   🏭 **[SIGPRO](https://sigpro.apolanco.com/)** - Sistema Integral de Gestión de Producción (MES) agroindustrial.
+*   📝 **[AJP Notes](https://ajpnotes.apolanco.com/)** - App web de notas completas con checklist y reloj Pomodoro.
+*   📅 **[DayTracker](https://streakcore.apolanco.com/)** - Rastreador de retos personales con calendario personalizable.
 
 <br>
 
